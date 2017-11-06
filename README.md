@@ -3,4 +3,4 @@
 
 
 ## demo vue-element-admin
-> https://sweida.github.io/demo/1/#/
+> https://sweida.github.io/demo/2/#/
