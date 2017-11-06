@@ -1,3 +1,3 @@
 # demo
 
-https://sweida/github.io/1/index.html
+https://sweida.github.io/demo/1/#/
